@@ -1,0 +1,9 @@
+GL1,Vũ Anh Tuấn,20,Male,tuan@gmail.com,0394705508,Gia Lai,5,0,0
+GL2,Nguyễn Thị Minh Khai,20,Female,minhkhai@gmail.com,0394756458,Gia Lai,5,1,0
+VL1,Hồ Quốc Khải,20,Male,KhaiQuoc@gmail.com,03947123332,Vĩnh Long,6,2,0
+DN1,Lê Tiến Đạt,21,Male,Tiendat@gmail.com,037667964454,Đak Nông,6,2,2
+KG1,Nguyễn Thị Ngọc Khánh,19,Female,Ngockhanh@gmail.com,01647436382,Kiên Giang,5,1,1
+GL3,Nguyễn Công Phương,25,Male,Congphuong1CP10@gmail.com,03455646443,Gia Lai,4,1,1
+GL4,Võ An Toàn,21,Male,Voantoankute@gmail.com,0345666544,Gia Lai,6,1,2
+GL5,Trương Phương  Thảo,21,Female,Phuongthao12@gmail.com,013343345689,Gia Lai,5,1,1
+DN2,Vũ Trương Thế Hiển,19,Male,Gausida@gmail.com,06557449665,Đà Nẵng,4,1,1
